@@ -1,3 +1,11 @@
+# PDF
+.pdf
+*.pdf
+
+# large data
+*/WDI_csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
