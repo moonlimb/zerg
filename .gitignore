@@ -2,6 +2,10 @@
 .pdf
 *.pdf
 
+# Excel
+.xlsx
+*.xlsx
+
 # large data
 */WDI_csv
 
