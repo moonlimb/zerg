@@ -2,9 +2,16 @@
 .pdf
 *.pdf
 
+# CIL code (stata)
+.do
+.dta
+cil_code
+
 # Excel
 .xlsx
 *.xlsx
+excel_copy
+
 
 # large data
 */WDI_csv
