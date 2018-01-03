@@ -9,6 +9,8 @@ cil_code
 notes
 # ignore for now
 la_porta
+RHG_regions.xlsm
+RHG_regions_mod.xlsm
 
 # Excel
 .xlsx
