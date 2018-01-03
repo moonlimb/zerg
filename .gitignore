@@ -14,10 +14,7 @@ RHG_regions_mod.xlsm
 meta_data/RHG_regions.xlsm
 
 # Excel
-.xlsx
-*.xlsx
 excel_copy
-
 
 # large data
 */WDI_csv
