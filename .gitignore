@@ -6,6 +6,9 @@
 .do
 .dta
 cil_code
+notes
+# ignore for now
+la_porta
 
 # Excel
 .xlsx
@@ -15,7 +18,8 @@ excel_copy
 
 # large data
 */WDI_csv
-
+*not_used
+*Data_Extract_From_World_Development_Indicators/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
